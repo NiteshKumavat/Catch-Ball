@@ -35,10 +35,3 @@ Watch out for the **gold balls** — they give bonus points!
 - Python **3.x**
 - Pygame library
 
----
-
-## 📦 Installation
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/catch-the-falling-objects.git
-   cd catch-the-falling-objects
