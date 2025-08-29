@@ -6,10 +6,7 @@ Watch out for the **gold balls** — they give bonus points!
 
 ---
 
-## 📸 Game Preview
-*(Add your screenshot here)*
 
----
 
 ## 🛠 Features
 - 🖱 **Mouse-controlled basket** for smooth movement.
